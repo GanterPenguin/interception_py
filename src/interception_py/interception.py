@@ -1,6 +1,6 @@
 from ctypes import *
-from stroke import  *
-from consts import *
+from .stroke import  *
+from .consts import *
 
 MAX_DEVICES = 20
 MAX_KEYBOARD = 10
